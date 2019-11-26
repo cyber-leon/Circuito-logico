@@ -2,7 +2,7 @@
 Para baixar o arquivo clique em "Clone or donwload"
 ![](https://cloud.addictivetips.com/wp-content/uploads/2016/08/github-plus.jpg)
 
-Ao baixar o arquivo, extrai o arquivo em qualquer pasta, caso seu computador você pode baixar o Winrar.
+Ao baixar o arquivo, extraia o arquivo.zip em qualquer pasta, caso seu computador não tenha como extrir arquivos desse tipo você pode baixar o Winrar.
 
 Crie um arquivo de texto.txt, coloque o circuito logico que deseja solucionar nele, é importante que nada além das entradas, saídas e portas logicas estejam nesse arquivo.Além de que as letras devem estar em maiúsculo. 
 
