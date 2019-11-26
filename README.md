@@ -1,1 +1,1 @@
-Clique no manual de intruções e siga os passos.
+Clique no manual de instruções e siga os passos.
